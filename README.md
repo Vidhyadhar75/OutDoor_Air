@@ -42,7 +42,8 @@ Features:
 
 Below is the wiring architecture of the full system.
 
-<img width="1920" height="1080" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/2cf81900-b6b5-4f31-ad47-5eaabac6615f" />
+<img width="1920" height="1080" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/7e9ae420-acaf-4ddf-9490-05b11078a9e7" />
+
 
 *(Use the diagram image in your repository docs folder)*
 
